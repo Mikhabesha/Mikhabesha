@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 I'm a passionate software developer based in Ethiopia 🇪🇹  
-Currently working as an **Assistant Senior Software Programmer** with over **3+ years of experience**.  
+Currently working as an **Software Engineer** with over **3+ years of experience**.  
 Specialized in **.NET**, **C#**, and building scalable, real-world applications.
 
 - 🧠 Exploring full-stack JavaScript (MERN) in my spare time
