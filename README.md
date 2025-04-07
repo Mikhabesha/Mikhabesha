@@ -1,4 +1,4 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Mikyas%20D&fontSize=35&fontAlignY=40&desc=Assistant%20Senior%20Software%20Programmer%20|%20.NET%20Developer&descAlignY=60&descAlign=50)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Mikyas%20D&fontSize=35&fontAlignY=40&desc=Software%20Engineer%20|%20.NET%20Developer&descAlignY=60&descAlign=50)
 
 ## 👨‍💻 About Me
 
