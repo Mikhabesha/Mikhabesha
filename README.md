@@ -49,7 +49,7 @@ Specialized in **.NET**, **C#**, and building scalable, real-world applications.
 
 - 🔐 **Escrow App** – secure digital middleman for peer-to-peer transactions
 - 💳 **Virtual Card Platform** – issue Visa/Mastercard virtual cards topped up via crypto
-- 🧓 **Customer Service Follow-up System for Pensioners   ** – manages pension entitlement processes,  tracks status and notify
+- 🧓 **Customer Service Follow-up System for Pensioners** – manages pension entitlement processes,  tracks status and notify
 - 🏥 **Hospital CMS** – dynamic comments system and patient engagement tools
 - 🧑‍💼 **Enterprise Chat System** – internal comms with role-based access & video calls
 
@@ -57,6 +57,6 @@ Specialized in **.NET**, **C#**, and building scalable, real-world applications.
 
 ## 📌 Fun Fact
 
-> I believe in building systems that matter — bridging gaps between tech and people, securely and beautifully.
+> We might be cast out as an alien if we were to time travel to 200 years back with our smart phone😁.
 
 Thanks for stopping by! Feel free to explore my repositories and connect. 🙌
