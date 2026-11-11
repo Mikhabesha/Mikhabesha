@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 I'm a passionate software developer based in Ethiopia 🇪🇹  
-Currently working as an **Software Engineer** with over **3+ years of experience**.  
+Currently working as an **Software Engineer** with over **5+ years of experience**.  
 Specialized in **.NET**, **C#**, and building scalable, real-world applications.
 
 - 🧠 Exploring full-stack JavaScript (MERN) in my spare time
@@ -49,7 +49,7 @@ Specialized in **.NET**, **C#**, and building scalable, real-world applications.
 
 - 🔐 **Escrow App** – secure digital middleman for peer-to-peer transactions
 - 💳 **Virtual Card Platform** – issue Visa/Mastercard virtual cards topped up via crypto
-- 🧓 **Pension System** – manages pension entitlements, accounting & finance operations
+- 🧓 **Customer Service Follow-up System for Pensioners   ** – manages pension entitlement processes,  tracks status and notify
 - 🏥 **Hospital CMS** – dynamic comments system and patient engagement tools
 - 🧑‍💼 **Enterprise Chat System** – internal comms with role-based access & video calls
 
